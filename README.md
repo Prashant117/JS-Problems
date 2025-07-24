@@ -12,7 +12,7 @@ Each problem is located in the `problems/` folder with its own test case in `tes
 
 | # | Problem | File |
 |--:|---------|------|
-| 05 | [Find Largest Number in Array](./problems/05-find-largest-number-in-array.js) | 05-find-largest-number-in-array.js |
+| 05 | [Find Largest Number in Array](problems/array/05-find-largest-number-in-array.js) | 05-find-largest-number-in-array.js |
 | 06 | [Remove Duplicates from Array](problems/06-remove-duplicates-from-array.js) | 06-remove-duplicates-from-array.js |
 | 07 | [Element Frequency in Array](problems/07-element-frequency-in-array.js) | 07-element-frequency-in-array.js |
 | 10 | [Flatten Nested Array](problems/10-flatten-nested-array.js) | 10-flatten-nested-array.js |
