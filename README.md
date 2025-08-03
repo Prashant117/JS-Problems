@@ -1,6 +1,6 @@
 # JavaScript SDE-2 Practice Problems
 
-A curated collection of 100 JavaScript problems grouped by topic, designed for SDE-2 level interviews.
+A curated collection of JavaScript problems grouped by topic, designed for SDE-2 level interviews.
 
 Each problem is located in the `problems/` folder with its own test case in `tests/`.
 
@@ -13,21 +13,21 @@ Each problem is located in the `problems/` folder with its own test case in `tes
 | # | Problem | File |
 |--:|---------|------|
 | 05 | [Find Largest Number in Array](problems/array/05-find-largest-number-in-array.js) | 05-find-largest-number-in-array.js |
-| 06 | [Remove Duplicates from Array](problems/06-remove-duplicates-from-array.js) | 06-remove-duplicates-from-array.js |
-| 07 | [Element Frequency in Array](problems/07-element-frequency-in-array.js) | 07-element-frequency-in-array.js |
-| 10 | [Flatten Nested Array](problems/10-flatten-nested-array.js) | 10-flatten-nested-array.js |
-| 11 | [Rotate Array by K Steps](problems/11-rotate-array-by-k-steps.js) | 11-rotate-array-by-k-steps.js |
-| 15 | [Move All Zeroes to End](problems/15-move-all-zeroes-to-end.js) | 15-move-all-zeroes-to-end.js |
-| 16 | [Merge Two Sorted Arrays](problems/16-merge-two-sorted-arrays.js) | 16-merge-two-sorted-arrays.js |
-| 17 | [All Pairs with Given Sum](problems/17-all-pairs-with-given-sum.js) | 17-all-pairs-with-given-sum.js |
-| 20 | [Product of Array Except Self](problems/20-product-of-array-except-self.js) | 20-product-of-array-except-self.js |
-| 51 | [Find Intersection of Two Arrays](problems/51-find-intersection-of-two-arrays.js) | 51-find-intersection-of-two-arrays.js |
-| 57 | [Count Occurrences of Element](problems/57-count-occurrences-of-element.js) | 57-count-occurrences-of-element.js |
-| 61 | [Majority Element](problems/61-majority-element.js) | 61-majority-element.js |
-| 71 | [Find Duplicates in Array](problems/71-find-duplicates-in-array.js) | 71-find-duplicates-in-array.js |
-| 72 | [Two Sum Problem](problems/72-two-sum-problem.js) | 72-two-sum-problem.js |
-| 73 | [Three Sum Problem](problems/73-three-sum-problem.js) | 73-three-sum-problem.js |
-| 99 | [Sort by Frequency](problems/99-sort-by-frequency.js) | 99-sort-by-frequency.js |
+| 06 | [Remove Duplicates from Array](problems/array/06-remove-duplicates-from-array.js) | 06-remove-duplicates-from-array.js |
+| 07 | [Element Frequency in Array](problems/array/07-element-frequency-in-array.js) | 07-element-frequency-in-array.js |
+| 10 | [Flatten Nested Array](problems/array/10-flatten-nested-array.js) | 10-flatten-nested-array.js |
+| 11 | [Rotate Array by K Steps](problems/array/11-rotate-array-by-k-steps.js) | 11-rotate-array-by-k-steps.js |
+| 15 | [Move All Zeroes to End](problems/array/15-move-all-zeroes-to-end.js) | 15-move-all-zeroes-to-end.js |
+| 16 | [Merge Two Sorted Arrays](problems/array/16-merge-two-sorted-arrays.js) | 16-merge-two-sorted-arrays.js |
+| 17 | [All Pairs with Given Sum](problems/array/17-all-pairs-with-given-sum.js) | 17-all-pairs-with-given-sum.js |
+| 20 | [Product of Array Except Self](problems/array/20-product-of-array-except-self.js) | 20-product-of-array-except-self.js |
+| 51 | [Find Intersection of Two Arrays](problems/array/51-find-intersection-of-two-arrays.js) | 51-find-intersection-of-two-arrays.js |
+| 57 | [Count Occurrences of Element](problems/array/57-count-occurrences-of-element.js) | 57-count-occurrences-of-element.js |
+| 61 | [Majority Element](problems/array/61-majority-element.js) | 61-majority-element.js |
+| 71 | [Find Duplicates in Array](problems/array/71-find-duplicates-in-array.js) | 71-find-duplicates-in-array.js |
+| 72 | [Two Sum Problem](problems/array/72-two-sum-problem.js) | 72-two-sum-problem.js |
+| 73 | [Three Sum Problem](problems/array/73-three-sum-problem.js) | 73-three-sum-problem.js |
+| 99 | [Sort by Frequency](problems/array/99-sort-by-frequency.js) | 99-sort-by-frequency.js |
 
 ### Async
 
