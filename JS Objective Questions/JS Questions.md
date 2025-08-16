@@ -502,7 +502,7 @@ console.log(...fruits)
 tryFruits('apple','banana','grapes')
 ```
 ```js
-a) ['apple', 'banana', 'grapes']
+a) apple banana grapes
 b) {'apple', 'banana', 'grapes'}
 c) 'apple 'banana grapes'
 d) 'apple'
