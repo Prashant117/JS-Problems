@@ -204,6 +204,7 @@ Each problem is located in the `problems/` folder with its own test case in `tes
 | 63 | [String Compression](problems/string/63-string-compression.js) | 63-string-compression.js |
 | 64 | [Longest Palindromic Substring](problems/string/64-longest-palindromic-substring.js) | 64-longest-palindromic-substring.js |
 | 94 | [Parse Query String](problems/string/94-parse-query-string.js) | 94-parse-query-string.js |
+| 101| [Reverse All Strings of a Sentence](problems/string/101-reverse-all-strings.js) | 101-reverse-all-strings.js |
 
 ### Tree
 
