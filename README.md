@@ -190,20 +190,20 @@ Each problem is located in the `problems/` folder with its own test case in `tes
 
 ### String
 
-| # | Problem | File |
+| # | Problem | File |string/
 |--:|---------|------|
 | 01 | [Reverse a String](problems/string/01-reverse-a-string.js) | 01-reverse-a-string.js |
-| 02 | [Check if a String is Palindrome](problems/02-check-if-a-string-is-palindrome.js) | 02-check-if-a-string-is-palindrome.js |
-| 08 | [Anagram Check](problems/08-anagram-check.js) | 08-anagram-check.js |
-| 09 | [Capitalize First Letter](problems/09-capitalize-first-letter.js) | 09-capitalize-first-letter.js |
-| 14 | [First Non-Repeating Character](problems/14-first-non-repeating-character.js) | 14-first-non-repeating-character.js |
-| 19 | [Is Subsequence](problems/19-is-subsequence.js) | 19-is-subsequence.js |
-| 25 | [Roman to Integer](problems/25-roman-to-integer.js) | 25-roman-to-integer.js |
-| 54 | [Longest Common Prefix](problems/54-longest-common-prefix.js) | 54-longest-common-prefix.js |
-| 62 | [Zigzag Conversion](problems/62-zigzag-conversion.js) | 62-zigzag-conversion.js |
-| 63 | [String Compression](problems/63-string-compression.js) | 63-string-compression.js |
-| 64 | [Longest Palindromic Substring](problems/64-longest-palindromic-substring.js) | 64-longest-palindromic-substring.js |
-| 94 | [Parse Query String](problems/94-parse-query-string.js) | 94-parse-query-string.js |
+| 02 | [Check if a String is Palindrome](problems/string/02-check-if-a-string-is-palindrome.js) | 02-check-if-a-string-is-palindrome.js |
+| 08 | [Anagram Check](problems/string/08-anagram-check.js) | 08-anagram-check.js |
+| 09 | [Capitalize First Letter](problems/string/09-capitalize-first-letter.js) | 09-capitalize-first-letter.js |
+| 14 | [First Non-Repeating Character](problems/string/14-first-non-repeating-character.js) | 14-first-non-repeating-character.js |
+| 19 | [Is Subsequence](problems/string/19-is-subsequence.js) | 19-is-subsequence.js |
+| 25 | [Roman to Integer](problems/string/25-roman-to-integer.js) | 25-roman-to-integer.js |
+| 54 | [Longest Common Prefix](problems/string/54-longest-common-prefix.js) | 54-longest-common-prefix.js |
+| 62 | [Zigzag Conversion](problems/string/62-zigzag-conversion.js) | 62-zigzag-conversion.js |
+| 63 | [String Compression](problems/string/63-string-compression.js) | 63-string-compression.js |
+| 64 | [Longest Palindromic Substring](problems/string/64-longest-palindromic-substring.js) | 64-longest-palindromic-substring.js |
+| 94 | [Parse Query String](problems/string/94-parse-query-string.js) | 94-parse-query-string.js |
 
 ### Tree
 
