@@ -192,7 +192,7 @@ Each problem is located in the `problems/` folder with its own test case in `tes
 
 | # | Problem | File |
 |--:|---------|------|
-| 01 | [Reverse a String](problems/01-reverse-a-string.js) | 01-reverse-a-string.js |
+| 01 | [Reverse a String](problems/string/01-reverse-a-string.js) | 01-reverse-a-string.js |
 | 02 | [Check if a String is Palindrome](problems/02-check-if-a-string-is-palindrome.js) | 02-check-if-a-string-is-palindrome.js |
 | 08 | [Anagram Check](problems/08-anagram-check.js) | 08-anagram-check.js |
 | 09 | [Capitalize First Letter](problems/09-capitalize-first-letter.js) | 09-capitalize-first-letter.js |
